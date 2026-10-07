@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusEventQA</string>
+    <string name="main_title">CAMPUS EVENT</string>
+    <string name="main_subtitle">Temukan kegiatan kampus yang sesuai dengan minatmu.</string>
+    <string name="empty_events">Belum ada event kampus yang tersedia saat ini.</string>
+    <string name="error_events">Gagal memuat event. Silakan periksa koneksi atau coba lagi.</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_speaker">Pembicara</string>
+    <string name="label_location">Lokasi</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_quota">Sisa Kuota</string>
+    <string name="label_registration_form">Formulir Pendaftaran</string>
+    <string name="hint_participant_name">Nama Lengkap</string>
+    <string name="hint_participant_email">Email</string>
+    <string name="hint_participant_count">Jumlah Peserta (1 - 5)</string>
+    <string name="btn_register">Daftar Event</string>
+    <string name="btn_back">Kembali</string>
+    <string name="status_success">Pendaftaran Berhasil</string>
+    <string name="status_error">Pendaftaran Gagal</string>
+    <string name="error_name_empty">Nama peserta wajib diisi (minimal 3 karakter)</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_count_invalid">Jumlah peserta harus antara 1 dan 5</string>
+    <string name="error_quota_exceeded">Kuota tidak mencukupi</string>
+    <string name="error_event_full">Event sudah penuh.</string>
+    <string name="success_registered_format">Terima kasih %1$s, pendaftaran untuk %2$d peserta telah dikonfirmasi.</string>
+</resources>
